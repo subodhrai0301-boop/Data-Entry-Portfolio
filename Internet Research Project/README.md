@@ -1,23 +1,35 @@
 # Internet Research Project
 
 ## Project Overview
-A research project demonstrating the ability to collect, organize, and present information accurately from online sources.
+
+A professional internet research project created to collect, organize, and analyze information from online sources using Microsoft Excel and Google Sheets.
+
+This project demonstrates the ability to perform accurate web research, organize large amounts of information, and present data in a clear and structured format.
 
 ## Skills Demonstrated
+
 - Internet Research
 - Data Collection
 - Data Entry
-- Information Organization
+- Data Organization
+- Web Searching
+- Information Verification
+- Excel / Google Sheets
+- Data Formatting
 - Attention to Detail
 
 ## Features
-- Company Research
-- Contact Information Collection
-- Industry Research
-- Organized Data Tables
-- Source Documentation
+
+- Online Data Collection
+- Research Data Organization
+- Structured Spreadsheet Creation
+- Information Categorization
+- Data Cleaning and Formatting
+- Professional Report Presentation
 
 ## Tools Used
+
 - Google Search
 - Microsoft Excel
 - Google Sheets
+- Internet Research Techniques
