@@ -1,22 +1,38 @@
 # Expense Tracker
 
 ## Project Overview
-A personal and business expense tracker created in Microsoft Excel / Google Sheets to organize and analyze financial records.
+
+A professional expense tracking system created using Microsoft Excel and Google Sheets to record, organize, and analyze personal or business expenses.
+
+This project helps manage financial records by tracking spending categories, calculating totals, and presenting expense information in a clear and structured format.
 
 ## Skills Demonstrated
+
 - Data Entry
-- Financial Record Keeping
-- Excel Functions
-- Data Analysis
+- Data Cleaning
 - Data Organization
+- Expense Management
+- Excel Functions
+- Data Formatting
+- Data Analysis
+- Sorting and Filtering
+- Spreadsheet Management
+- Attention to Detail
 
 ## Features
-- Income & Expense Records
-- Monthly Summary
-- Expense Categories
-- Budget Tracking
-- Charts & Reports
+
+- Expense Recording
+- Category-wise Expense Analysis
+- Monthly Expense Tracking
+- Total Expense Calculation
+- Budget Monitoring
+- Expense Summary Report
+- Charts and Visual Reports
 
 ## Tools Used
+
 - Microsoft Excel
 - Google Sheets
+- Excel Functions
+- Pivot Tables
+- Charts & Graphs
